@@ -83,3 +83,7 @@ tasm calculator.asm
 tlink calculator.obj
 calculator.exe
 
+```
+###👨‍💻 Author
+
+Developed by: https://github.com/eshat69
