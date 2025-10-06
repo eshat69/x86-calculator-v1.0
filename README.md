@@ -67,19 +67,17 @@
 | `NL`, `BR1`, etc. | Utility subroutines for newline and conversions |
 
 ---
-##🧠 Key Assembly Concepts
+## 🧠 Key Assembly Concepts
 
-Register operations (AX, BX, CX, DX)
-
-Character to number conversion (SUB AL, 48)
-
-Arithmetic instructions (ADD, SUB, MUL, DIV)
-
-Control flow (JE, JMP, JL)
-
-DOS interrupts (INT 21h)
-
-Subroutine calls (CALL, RET)
+| Concept | Description |
+|---------|-------------|
+| **Register operations** | Using CPU registers like AX, BX, CX, DX to store and manipulate data |
+| **Character to number conversion** | Convert ASCII characters to numeric values using instructions like `SUB AL, 48` |
+| **Arithmetic instructions** | Perform basic math operations using `ADD`, `SUB`, `MUL`, `DIV` |
+| **Control flow** | Direct program execution using conditional and unconditional jumps: `JE`, `JMP`, `JL` |
+| **DOS interrupts** | Use DOS services via `INT 21h` to interact with input/output and system functions |
+| **Subroutine calls** | Modularize code using `CALL` and return with `RET` |
+---
 ## 🚀 Running the Program  
 
 ### ▶️ **Option 1: EMU8086**
