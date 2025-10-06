@@ -94,5 +94,6 @@ calculator.exe
 
 ```
 ### 👨‍💻 Author
+GitHub: [eshat69](https://github.com/eshat69)
+Email: eshatrahman137173@gmail.com
 
-Developed by: https://github.com/eshat69
