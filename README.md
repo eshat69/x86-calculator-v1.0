@@ -67,7 +67,19 @@
 | `NL`, `BR1`, etc. | Utility subroutines for newline and conversions |
 
 ---
+##🧠 Key Assembly Concepts
 
+Register operations (AX, BX, CX, DX)
+
+Character to number conversion (SUB AL, 48)
+
+Arithmetic instructions (ADD, SUB, MUL, DIV)
+
+Control flow (JE, JMP, JL)
+
+DOS interrupts (INT 21h)
+
+Subroutine calls (CALL, RET)
 ## 🚀 Running the Program  
 
 ### ▶️ **Option 1: EMU8086**
