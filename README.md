@@ -83,6 +83,6 @@ tlink calculator.obj
 calculator.exe
 
 ```
-###👨‍💻 Author
+### 👨‍💻 Author
 
 Developed by: https://github.com/eshat69
