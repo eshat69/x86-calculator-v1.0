@@ -46,3 +46,36 @@
 <img width="644" height="372" alt="Screenshot 2025-10-07 004004" src="https://github.com/user-attachments/assets/3b5cde74-a96a-43d7-8a95-80b201fc56a9" />
 <img width="640" height="73" alt="Screenshot 2025-10-07 004026" src="https://github.com/user-attachments/assets/d8cac572-b5cd-43b8-9b9e-13f464338c45" />
 
+➡️ User chooses an operation → enters two numbers → result shown in three formats.  
+➡️ Type `1` to continue or `2` to exit.
+
+---
+
+## 🧩 Code Overview  
+
+| Section | Purpose |
+|----------|----------|
+| `.DATA` | All messages, prompts, and ASCII labels |
+| `.CODE` | Core logic for arithmetic and display |
+| `MAIN PROC` | Entry point |
+| `ADDD`, `SUBB`, `MULL`, `DIVV` | Handles each arithmetic operation |
+| `DR`, `BR`, `HR` | Output results in Decimal, Binary, Hexadecimal |
+| `TNX` | Displays exit message |
+| `NL`, `BR1`, etc. | Utility subroutines for newline and conversions |
+
+---
+
+## 🚀 Running the Program  
+
+### ▶️ **Option 1: EMU8086**
+1. Open EMU8086 IDE  
+2. Paste your code into a new file (`calculator.asm`)  
+3. Assemble and run (`F5` or "Run")  
+4. Follow on-screen instructions  
+
+### ▶️ **Option 2: DOSBox + TASM/MASM**
+```bash
+tasm calculator.asm
+tlink calculator.obj
+calculator.exe
+
