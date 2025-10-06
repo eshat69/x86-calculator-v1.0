@@ -44,10 +44,11 @@
 <img width="644" height="372" alt="Screenshot 2025-10-07 003834" src="https://github.com/user-attachments/assets/c5874edc-27a3-4e84-a522-07fe1e1a1e22" />
 <img width="641" height="372" alt="Screenshot 2025-10-07 003921" src="https://github.com/user-attachments/assets/4719917d-0af6-4904-8be5-9bb9994748a5" />
 <img width="644" height="372" alt="Screenshot 2025-10-07 004004" src="https://github.com/user-attachments/assets/3b5cde74-a96a-43d7-8a95-80b201fc56a9" />
+➡️ Type `1` to continue or `2` to exit.
 <img width="640" height="73" alt="Screenshot 2025-10-07 004026" src="https://github.com/user-attachments/assets/d8cac572-b5cd-43b8-9b9e-13f464338c45" />
 
 ➡️ User chooses an operation → enters two numbers → result shown in three formats.  
-➡️ Type `1` to continue or `2` to exit.
+
 
 ---
 
