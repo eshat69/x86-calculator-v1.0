@@ -6,6 +6,8 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/eshat69/x86-calculator-v1.0)
 ![GitHub language](https://img.shields.io/github/languages/top/eshat69/x86-calculator-v1.0)
 ![License](https://img.shields.io/github/license/eshat69/x86-calculator-v1.0)
+![Issues](https://img.shields.io/github/issues/yourusername/x86-calculator-v1.0?style=flat-square)
+
 ---
 ## ⚙️ Features  
 
