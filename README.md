@@ -1,4 +1,3 @@
-
 # 🧮 x86-calculator-v1.0
 
 ### A simple calculator built entirely in **x86 Assembly language** (MASM/TASM) that performs basic arithmetic operations and displays results in **Decimal**, **Binary**, and **Hexadecimal** formats.
